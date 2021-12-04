@@ -24,6 +24,7 @@ From being curious about how companies use data in 2019 to becoming a Data Scien
 
 [![Spotify](https://spotify-lilac-three.vercel.app/api/spotify-playing](https://open.spotify.com/user/22ey6x2hufwq57thoxcmkiguy)
 
+[![Spotify](https://spotify-lilac-three.vercel.app/api/spotify)](https://open.spotify.com/user/22ey6x2hufwq57thoxcmkiguy)
 
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=haixiaolu&show_icons=true&theme=radical)](https://github.com/LordDashMe/github-contribution-stats/)
 
