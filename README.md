@@ -6,7 +6,7 @@ From being curious about how companies use data in 2019 to becoming a Data Scien
 
 ## Say hi to me: 
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>] (https://www.linkedin.com/in/haixiao-lu/)
+<img align="left" alt="https://www.linkedin.com/in/haixiao-lu/" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> 
 
 
 https://img.shields.io/twitter/url?logo=linkedin&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fhaixiao-lu%2F
