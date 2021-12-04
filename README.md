@@ -9,5 +9,5 @@
 
 ## Say hi to me:
 
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=haixiaolu)](https://github.com/LordDashMe/github-contribution-stats/)
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=haixiaolu&show_icons=true&theme=radical)](https://github.com/LordDashMe/github-contribution-stats/)
 
