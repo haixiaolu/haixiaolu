@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hello there 👋
 ## Good to see you here. I'm Haixiao (hi show). You can call me Lu! 🤝
 ### Aspiring Data Scientist and Data Analyst
 
