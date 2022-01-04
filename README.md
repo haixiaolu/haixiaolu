@@ -14,7 +14,7 @@ From being curious about how companies use data in 2019 to becoming a Data Scien
 
 
 - 🔭  I’m currently working on Data Science projects
-- 📔  I’m currently learning everything 
+- 📔  I’m currently learning to solve Leetcode problems
 - 🤔  I’m looking for help with land my first Tech role
 - 🥅  Conttribute more to Open Source Projects
 - ⚡   Fun fact: I love to play tennis and watch soccer games
